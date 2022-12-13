@@ -1,0 +1,15 @@
+#WORK C:/Users/WLL/PycharmProjects/pythonProject
+#RPATH F:/R-4.1.0/R-4.1.0/bin/Rscript.exe
+#PLINKPATH C:/Users/WLL/PycharmProjects/pythonProject/plink.exe
+#INPUT  C:/Users/WLL/PycharmProjects/pythonProject/1_QC_GWAS/HapMap_3_r3_1
+#SCRIPTS C:/Users/WLL/PycharmProjects/pythonProject
+#MAF .05
+#MIND .02
+#GENO .02
+#HWE 10e-05
+#PI_HAT 0.2
+#MIND1 .27
+#SEX yes
+#HET yes
+#PHENO pheno1
+#PFILE G:/1_QC_GWAS/pheno.txt
